@@ -1,7 +1,7 @@
 {
     "name": "nicklaw5/php-library-starter-kit",
     "type": "library",
-    "description": "The official PHP client for interacting with go-ku.",
+    "description": "This is a simple PHP library infrastructure for bootstrapping new packages.",
     "keywords": ["library", "starter-kit"],
     "homepage": "http://github.com/nicklaw5/php-library-starter-kit",
     "license": "MIT",
